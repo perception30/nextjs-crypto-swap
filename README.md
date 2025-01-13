@@ -2,6 +2,8 @@
 
 A demonstration project showcasing a cryptocurrency swapping interface built with Next.js. This project serves as a learning resource for understanding how to build modern web applications for crypto trading and DeFi interactions.
 
+![Crypto Swap Interface](screenshot.png)
+
 ## Features
 
 - 🔄 Real-time cryptocurrency swapping interface
